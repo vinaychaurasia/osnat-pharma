@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/osnat-pharma/static/css/main.77bbebd1.css",
+    "main.js": "/osnat-pharma/static/js/main.6d66fc1c.js",
+    "static/media/second.jpg": "/osnat-pharma/static/media/second.b5ff413574b4f9950ba2.jpg",
+    "static/media/third.jpg": "/osnat-pharma/static/media/third.ec8b392aeeec66171d0b.jpg",
+    "static/media/andreas-m-AizSoIlfKRc-unsplash.jpg": "/osnat-pharma/static/media/andreas-m-AizSoIlfKRc-unsplash.75bc2d64856fea338f1c.jpg",
+    "static/media/fifth.jpg": "/osnat-pharma/static/media/fifth.e12a668ce43dd478b7b8.jpg",
+    "static/media/fourth.jpg": "/osnat-pharma/static/media/fourth.14e9730c7cbefc56f17c.jpg",
+    "static/media/contact.jpg": "/osnat-pharma/static/media/contact.0881f0baafc3ab5d3420.jpg",
+    "index.html": "/osnat-pharma/index.html",
+    "main.77bbebd1.css.map": "/osnat-pharma/static/css/main.77bbebd1.css.map",
+    "main.6d66fc1c.js.map": "/osnat-pharma/static/js/main.6d66fc1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77bbebd1.css",
+    "static/js/main.6d66fc1c.js"
+  ]
+}
